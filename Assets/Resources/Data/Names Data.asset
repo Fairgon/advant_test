@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce38a56759a080549a0b3ede47d73906, type: 3}
+  m_Name: Names Data
+  m_EditorClassIdentifier: 
+  _list:
+  - _id: b1
+    _name: "\u0411\u0438\u0437\u043D\u0435\u0441 1"
+  - _id: b1u1
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+  - _id: b1u2
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+  - _id: b2
+    _name: "\u0411\u0438\u0437\u043D\u0435\u0441 2"
+  - _id: b2u1
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+  - _id: b2u2
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+  - _id: b3
+    _name: "\u0411\u0438\u0437\u043D\u0435\u0441 3"
+  - _id: b3u1
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+  - _id: b3u2
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+  - _id: b4
+    _name: "\u0411\u0438\u0437\u043D\u0435\u0441 4"
+  - _id: b4u1
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+  - _id: b4u2
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
+  - _id: b5
+    _name: "\u0411\u0438\u0437\u043D\u0435\u0441 5"
+  - _id: b5u1
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 1"
+  - _id: b5u2
+    _name: "\u0423\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 2"
